@@ -1,0 +1,9 @@
+C:\Users\Hussam\Documents\GitHub\WSDLDescriber\WSDLDescriber\WSDLDescriber\bin\Release\WSDLDescriber.exe.config
+C:\Users\Hussam\Documents\GitHub\WSDLDescriber\WSDLDescriber\WSDLDescriber\bin\Release\WSDLDescriber.exe
+C:\Users\Hussam\Documents\GitHub\WSDLDescriber\WSDLDescriber\WSDLDescriber\bin\Release\WSDLDescriber.pdb
+C:\Users\Hussam\Documents\GitHub\WSDLDescriber\WSDLDescriber\WSDLDescriber\obj\Release\WSDLDescriber.csprojResolveAssemblyReference.cache
+C:\Users\Hussam\Documents\GitHub\WSDLDescriber\WSDLDescriber\WSDLDescriber\obj\Release\WSDLDescriber.MainUI.resources
+C:\Users\Hussam\Documents\GitHub\WSDLDescriber\WSDLDescriber\WSDLDescriber\obj\Release\WSDLDescriber.Properties.Resources.resources
+C:\Users\Hussam\Documents\GitHub\WSDLDescriber\WSDLDescriber\WSDLDescriber\obj\Release\WSDLDescriber.csproj.GenerateResource.Cache
+C:\Users\Hussam\Documents\GitHub\WSDLDescriber\WSDLDescriber\WSDLDescriber\obj\Release\WSDLDescriber.exe
+C:\Users\Hussam\Documents\GitHub\WSDLDescriber\WSDLDescriber\WSDLDescriber\obj\Release\WSDLDescriber.pdb
