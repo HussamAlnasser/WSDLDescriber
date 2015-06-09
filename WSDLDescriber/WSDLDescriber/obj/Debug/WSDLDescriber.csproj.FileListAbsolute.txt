@@ -1,0 +1,12 @@
+c:\users\hussam\documents\visual studio 2013\Projects\WSDLDescriber\WSDLDescriber\bin\Debug\WSDLDescriber.exe.config
+c:\users\hussam\documents\visual studio 2013\Projects\WSDLDescriber\WSDLDescriber\bin\Debug\WSDLDescriber.exe
+c:\users\hussam\documents\visual studio 2013\Projects\WSDLDescriber\WSDLDescriber\bin\Debug\WSDLDescriber.pdb
+c:\users\hussam\documents\visual studio 2013\Projects\WSDLDescriber\WSDLDescriber\obj\Debug\WSDLDescriber.csprojResolveAssemblyReference.cache
+c:\users\hussam\documents\visual studio 2013\Projects\WSDLDescriber\WSDLDescriber\obj\Debug\WSDLDescriber.MainUI.resources
+c:\users\hussam\documents\visual studio 2013\Projects\WSDLDescriber\WSDLDescriber\obj\Debug\WSDLDescriber.Properties.Resources.resources
+c:\users\hussam\documents\visual studio 2013\Projects\WSDLDescriber\WSDLDescriber\obj\Debug\WSDLDescriber.csproj.GenerateResource.Cache
+c:\users\hussam\documents\visual studio 2013\Projects\WSDLDescriber\WSDLDescriber\obj\Debug\WSDLDescriber.exe
+c:\users\hussam\documents\visual studio 2013\Projects\WSDLDescriber\WSDLDescriber\obj\Debug\WSDLDescriber.pdb
+C:\Users\Hussam\Documents\GitHub\WSDLDescriber\WSDLDescriber\WSDLDescriber\bin\Debug\WSDLDescriber.exe.config
+C:\Users\Hussam\Documents\GitHub\WSDLDescriber\WSDLDescriber\WSDLDescriber\obj\Debug\WSDLDescriber.exe
+C:\Users\Hussam\Documents\GitHub\WSDLDescriber\WSDLDescriber\WSDLDescriber\obj\Debug\WSDLDescriber.pdb
